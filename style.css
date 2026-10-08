@@ -112,7 +112,7 @@ button {
     background-color: lightgray;
     display: flex;
     flex-flow: column nowrap;
-    padding: 0px 35px 0px 35px;
+    padding: 0px 85px 0px 85px;
 }
 .q-author{
     display: flex;
